@@ -1,1 +1,1 @@
-char c[100] = int m = n + 3p + 8 char//comentario
+char c[100] = int m = n + 3p + 8 char
